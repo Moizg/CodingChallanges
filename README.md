@@ -16,3 +16,5 @@ These challenges have been given and presented by 'The Coding Sloth' in his news
 3. ❗ [**Factorial Challenge**](https://github.com/Moizg/CodingChallanges/tree/main/Factorial%20Challenge)
 
 4. 🎂 [**Birthday Challenge**](https://github.com/Moizg/CodingChallanges/tree/main/Birthday%20Challenge)
+
+5. 🔢 [**Spiral Matrix Challenge**](https://github.com/Moizg/CodingChallanges/tree/main/Spiral%20Matrix%20Challenge)
