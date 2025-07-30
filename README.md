@@ -24,3 +24,9 @@ These challenges have been given and presented by 'The Coding Sloth' in his news
 7. 🎹​ [**Keyboard Challenge**](https://github.com/Moizg/CodingChallanges/tree/main/Broken%20Keyboard%20Challenge)
 
 8. 👟​ [**LeetCode Jump Challenge**](https://github.com/Moizg/CodingChallanges/tree/main/Jump%20Challenge)
+
+9. 🔤​ [**Valid String Challenge**](https://github.com/Moizg/CodingChallanges/tree/main/Valid%20String%20Challenge)
+
+10. 🍡​ [**Vowel Skewer Challenge**](https://github.com/Moizg/CodingChallanges/tree/main/Vowel%20Skewer%20Challenge)
+
+11. 🔘​ [**Overlap Challenge**](https://github.com/Moizg/CodingChallanges/tree/main/Overlap%20Challenge)
