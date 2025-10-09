@@ -30,3 +30,9 @@ These challenges have been given and presented by 'The Coding Sloth' in his news
 10. 🍡​ [**Vowel Skewer Challenge**](https://github.com/Moizg/CodingChallanges/tree/main/Vowel%20Skewer%20Challenge)
 
 11. 🔘​ [**Overlap Challenge**](https://github.com/Moizg/CodingChallanges/tree/main/Overlap%20Challenge)
+
+12. ‼️​ [**Bad Mood Challenge**](https://github.com/Moizg/CodingChallanges/tree/main/Bad%20Mood%20Challenge)
+
+13. ​📽 [**Cinema Challenge**](https://github.com/Moizg/CodingChallanges/tree/main/Cinema%20Challenge)
+
+14. 🔄​ [**Upside Down Challenge**](https://github.com/Moizg/CodingChallanges/tree/main/Upside%20Down%20Challenge)
