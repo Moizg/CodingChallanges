@@ -36,3 +36,13 @@ These challenges have been given and presented by 'The Coding Sloth' in his news
 13. ​📽 [**Cinema Challenge**](https://github.com/Moizg/CodingChallanges/tree/main/Cinema%20Challenge)
 
 14. 🔄​ [**Upside Down Challenge**](https://github.com/Moizg/CodingChallanges/tree/main/Upside%20Down%20Challenge)
+
+15. ​ [**Valid Hex Challenge**](https://github.com/Moizg/CodingChallanges/tree/main/Valid%20Hex%20Challenge)
+
+16.  [**Excel Sheet Challenge**](https://github.com/Moizg/CodingChallanges/tree/main/Excel%20Sheet%20Challenge)
+
+17.  [**Phone Letter Challenge**](https://github.com/Moizg/CodingChallanges/tree/main/Phone%20Letter%20Challenge)
+
+18.  [**Tracing Matrix Challenge**](https://github.com/Moizg/CodingChallanges/tree/main/Tracing%20Challenge)
+
+19.  [**Algebra Challenge**](https://github.com/Moizg/CodingChallanges/tree/main/Algebra%20Challenge)
